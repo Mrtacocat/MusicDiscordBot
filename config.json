@@ -1,5 +1,6 @@
 {
   "prefix": "!",
   "activityType": "PLAYING",
-  "activity": "your music selections"
+  "activity": "your music selections",
+  "clientId": "537963608022188032"
 }
